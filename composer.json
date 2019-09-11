@@ -12,12 +12,7 @@
   ],
   "autoload": {
       "psr-4": {
-          "LicenseSpring\\": "app/lib/LicenseSpring/"
-      }
-  },
-  "extra": {
-      "branch-alias": {
-          "dev-master": "1.0-dev"
+          "LicenseSpring\\": "src/LicenseSpring/"
       }
   }
 }
